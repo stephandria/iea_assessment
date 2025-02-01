@@ -1,3 +1,7 @@
+# Chosen task
+
+The chosen task is Task B: display the countries in countries.json inside a searchable and scrollable input.
+
 # How to run the app
 
 1. Start the backend
