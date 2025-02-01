@@ -2,7 +2,7 @@ import {
   createRouter,
   createWebHistory,
 } from 'vue-router';
-import HomeView from '../views/CountrySelectionView.vue';
+import HomeView from '../views/CountryView.vue';
 
 const router = createRouter({
   history: createWebHistory(
